@@ -1,0 +1,3 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:305:"<div class="well "><h3 class="page-header">เมนูหลัก</h3><ul class="nav menu mod-list">
+<li class="item-102 default current active"><a href="/index.php/th/" >หน้าหลัก</a></li><li class="item-105"><a href="/index.php/th/2021-03-11-14-52-52" >ข่าว</a></li></ul>
+</div>";s:6:"output";a:3:{s:4:"body";s:0:"";s:4:"head";a:0:{}s:13:"mime_encoding";s:9:"text/html";}}
